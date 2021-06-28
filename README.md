@@ -3,7 +3,9 @@
 ---
 ## [이코테](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)  
 * [도서] 이것이 취업을 위한 코딩 테스트다 with 파이썬  
-
+## [CodeUp](https://codeup.kr/index.php)    
+## [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)   
+---
 ## 그리디
 * 탐욕: 현 상황 당장 좋은 것만 고르는 방법  
   * 정당성 분석  
@@ -67,4 +69,3 @@
   * 진입 차수(Indegree)/진출차수(Outdegree)  
   * 큐/DFS  
 ---
-## [CodeUp](https://codeup.kr/index.php)    
